@@ -51,3 +51,4 @@ public class PartitionString{
 // Jab tak unique segment nahi milta, tab tak characters jodte jao.
 //lat m edge case handle kr lo
 
+// ------------WE CAN ALSO USE TRIE ---------------------
