@@ -1,4 +1,4 @@
 1. https://leetcode.com/problems/partition-string/description/
 2. https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/
-3. https://leetcode.com/problems/partition-array-to-minimize-xor/
+3. https:// leetcode.com/problems/partition-array-to-minimize-xor/
 4. https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/

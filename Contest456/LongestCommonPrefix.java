@@ -33,9 +33,8 @@ public class LongestCommonPrefix {
         }
         // prefix -> max lcp from 0 to i
         int[] prefix = new int[n - 1];
+        
         //suffix -> max lcp from i to end 
-
-
         int[] suffix = new int[n - 1];
 
         prefix[0] = lcp[0];
